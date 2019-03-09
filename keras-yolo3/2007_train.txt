@@ -1,0 +1,4 @@
+/Users/mizuki/Dropbox/github/yolo_test/keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/jiro_0.jpg 32,21,230,181,0 32,21,230,181,0
+/Users/mizuki/Dropbox/github/yolo_test/keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/jiro_1.jpg 39,0,236,154,0 39,0,236,154,0
+/Users/mizuki/Dropbox/github/yolo_test/keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/jiro_2.jpg 0,0,255,189,0
+/Users/mizuki/Dropbox/github/yolo_test/keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/jiro_3.jpg 9,7,245,194,0
